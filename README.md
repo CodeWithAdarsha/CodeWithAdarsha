@@ -1,7 +1,7 @@
 
 ### Hello there, I’m Adarsha.Somanna 👋
 
-**CodeWithAdarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeWithAdarsha** is a ✨ _special_ ✨ repository because collabrate with latest fraemwork and design pattern,coding pattern who wants know about real work in IT/Software Industry. This place is not for any DS&Algo for sure. 
 
 Here are some ideas to get you started:
 
